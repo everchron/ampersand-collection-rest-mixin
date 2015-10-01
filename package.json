@@ -15,7 +15,7 @@
     "url": "https://github.com/ampersandjs/ampersand-collection-rest-mixin/issues"
   },
   "dependencies": {
-    "ampersand-sync": "^4.0.1",
+    "ampersand-sync": "https://github.com/everchron/ampersand-sync",
     "ampersand-version": "^1.0.2",
     "lodash.assign": "^3.2.0"
   },
